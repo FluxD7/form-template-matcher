@@ -111,4 +111,4 @@ HTML-отчёт покрытия доступен в папке `htmlcov`.
 
 ## Контакты
 
-Если у вас есть вопросы или предложения, создайте issue в репозитории: [https://github.com/your-username/form-template-matcher](https://github.com/your-username/form-template-matcher).
+Если у вас есть вопросы или предложения, создайте issue в репозитории: [[https://github.com/your-username/form-template-matcher](https://github.com/FluxD7/form-template-matcher)]
